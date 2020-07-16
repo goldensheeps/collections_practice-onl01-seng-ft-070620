@@ -49,7 +49,7 @@ end
 
 
 # Question 9
-def add_s(array)
+def add_s(element)
 [0,2,3].each_with_index.collect{|element + "s", index|}
 
 end

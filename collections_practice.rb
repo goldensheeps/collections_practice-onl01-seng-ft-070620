@@ -50,7 +50,7 @@ end
 
 # Question 9
 def add_s(array)
-  new_arr = [0,2,3].each_with_index.collect{|element, index|}
-  element
+[0,2,3].each_with_index.collect{|element, index|}
+
 end
 

@@ -51,6 +51,6 @@ end
 # Question 9
 def add_s(array)
 [0,2,3].each_with_index.collect{|element, index|}
-
+return element
 end
 

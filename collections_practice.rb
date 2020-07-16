@@ -44,7 +44,7 @@ end
 
 # Question 8 
 def sum_array(array)
-  array.reduce(:+)
+  array.inject(:+)
 end
 
 
